@@ -1,2 +1,2 @@
-﻿# WD-P
+﻿# WD-Practicals
     Practicals of the WebDevlopment  
